@@ -1,1 +1,1 @@
-My first readme
+echo "/tmp/correction/1585869756686816355969439380509847457731_5/205/174279/0x00-shell_basics"
